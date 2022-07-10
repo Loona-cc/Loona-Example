@@ -1,2 +1,2 @@
 # Loona-Module
-An example module for LoonaBilling
+An example module for LoonaBilling.
